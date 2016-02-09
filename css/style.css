@@ -20,7 +20,7 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 228px;
+  top: 258px;
   left: 50%;
   margin-left: -2.5px;
   margin-top: -8.33333333px;
@@ -147,6 +147,9 @@ body {
   font-style: italic;
   text-align: center;
 }
-.text h1 {
-  font-size: 1.4em;
+.text h1  {
+  font-size: 2.4em;
+}
+.text p  {
+  font-size: 2.4em;
 }
